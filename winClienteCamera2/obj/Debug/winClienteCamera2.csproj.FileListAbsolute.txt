@@ -1,0 +1,16 @@
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\bin\Debug\winClienteCamera2.exe.config
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\bin\Debug\winClienteCamera2.exe
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\bin\Debug\winClienteCamera2.pdb
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.csproj.SuggestedBindingRedirects.cache
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.webCamera.resources
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.Properties.Resources.resources
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.csproj.GenerateResource.cache
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.exe
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.pdb
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\james\source\repos\winClienteCamera2\winClienteCamera2\obj\Debug\winClienteCamera2.csproj.CopyComplete
