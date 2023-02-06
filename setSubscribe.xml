@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config version="1.7" xmlns="http://www.ipc.com/ver10">
+<types>
+<openAlramObj>
+<enum>MOTION</enum>
+<enum>SENSOR</enum>
+<enum>PEA</enum>
+<enum>AVD</enum>
+<enum>OSC</enum>
+<enum>CPC</enum>
+<enum>CDD</enum>
+<enum>IPD</enum>
+<enum>VFD</enum>
+<enum>VFD_MATCH</enum>
+<enum>VEHICE</enum>
+<enum>AOIENTRY</enum>
+<enum>AOILEAVE</enum>
+<enum>PASSLINECOUNT</enum>
+<enum>TRAFFIC</enum>
+</openAlramObj>
+<subscribeRelation>
+<enum>ALARM</enum>
+<enum>FEATURE_RESULT</enum>
+<enum>ALARM_FEATURE</enum>
+</subscribeRelation>
+<subscribeTypes>
+<enum>BASE_SUBSCRIBE</enum>
+<enum>REALTIME_SUBSCRIBE</enum>
+<enum>STREAM_SUBSCRIBE</enum>
+</subscribeTypes>
+</types>
+<channelID type="uint32">0</channelID>
+<initTermTime type="uint32">0</initTermTime>
+<subscribeFlag type="subscribeTypes">REALTIME_SUBSCRIBE</subscribeFlag>
+<subscribeList type="list" count="15">
+<item>
+<smartType type="openAlramObj">MOTION</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">SENSOR</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">PEA</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">AVD</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">OSC</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">CPC</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">CDD</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">IPD</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">VFD</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">VFD_MATCH</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">VEHICE</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">AOIENTRY</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">AOILEAVE</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">PASSLINECOUNT</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+<item>
+<smartType type="openAlramObj">TRAFFIC</smartType>
+<subscribeRelation type="subscribeRelation">ALARM_FEATURE</subscribeRelation>
+</item>
+</subscribeList>
+</config>
