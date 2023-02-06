@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config version="1.7" xmlns="http://www.ipc.com/ver10">
+<serverAddress type="string">
+<![CDATA[auxServer]]>
+</serverAddress>
+<timeout type="uint32">20</timeout>
+<messageLimit type="uint32">10</messageLimit>
+</config>
